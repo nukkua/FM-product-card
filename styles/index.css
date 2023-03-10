@@ -29,7 +29,8 @@ body{
     background-color: var(--white);
     overflow: hidden;
 }
-.product-container img{
+
+.product-container picture img{
     width:100%;
 }
 .product-details{
